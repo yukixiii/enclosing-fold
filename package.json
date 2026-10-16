@@ -1,6 +1,6 @@
 {
   "name": "enclosing-fold",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Fold the heading or list section around the cursor, even when the cursor is inside it.",
   "main": "main.js",
   "scripts": {
